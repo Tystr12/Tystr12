@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tystr12
-- 👀 I’m interested in programming especially in Java and Python <3.
+- 👀 I’m interested in programming especially in Java and Python .
 - 🌱 I’m currently learning Java, data structures and algorithms and Django.
 - 💞️ I’m looking to collaborate on Java projects, django projects, anything really.
 - 📫 How to reach me email ty.strong1212@gmail.com
